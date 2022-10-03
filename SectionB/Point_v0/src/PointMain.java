@@ -11,6 +11,6 @@ public class PointMain {
         p1.y = 37;
 
         System.out.println(p1.x + ", " + p1.y);
-        System.out.println(p2.x + ", " + p2.y);
+//        System.out.println(p2.x + ", " + p2.y);
     }
 }
